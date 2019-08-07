@@ -19,7 +19,7 @@ The Mean Square Error for Magnitude-Depth prediction is: 1.2347538972750696
 
 
 
-![Figure_1](https://user-images.githubusercontent.com/22563091/62523598-6f804c00-b834-11e9-8e19-2c9a8cada56d.png)
+![Figure_1](https://user-images.githubusercontent.com/22563091/62602940-293ef180-b8f5-11e9-975d-6898b0dbaf79.png)
 
 
 ###### The code is written in python 3
